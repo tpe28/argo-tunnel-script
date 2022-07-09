@@ -7,7 +7,8 @@
 ## 使用方法
 
 ```shell
-wget -N --no-check-certificate https://raw.githubusercontents.com/Misaka-blog/argo-tunnel-script/master/argo.sh && bash argo.sh
+# wget -N --no-check-certificate https://raw.githubusercontents.com/Misaka-blog/argo-tunnel-script/master/argo.sh && bash argo.sh
+wget -N --no-check-certificate https://raw.githubusercontents.com/tpe28/argo-tunnel-script/master/argo.sh && bash argo.sh
 ```
 
 快捷方式 `bash argo.sh`
@@ -35,9 +36,9 @@ lxxself: https://lxx.im/cloudflare-tunnel
 
 yuuki410 fork的分支：https://github.com/yuuki410/argo-tunnel-script
 
-## 交流群
-
-[Telegram](https://t.me/misakanetcn)
+## ~~交流群~~ 墓碑
+~~[Telegram] (https://t.me/misakanetcn)~~  
+[Telegram Channel](https://t.me/misakano)
 
 ## 赞助我们
 
